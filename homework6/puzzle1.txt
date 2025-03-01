@@ -1,0 +1,12 @@
+!Puzzle 1 Test Case 1
++5
++5
++5
++5
++5
+HELLO
+WORLD
+ARMOR
+GLASS
+LOONS
+

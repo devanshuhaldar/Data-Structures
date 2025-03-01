@@ -1,0 +1,12 @@
+!Puzzle 2 constraint/grid
++7
++7
++7
++7
+QUIZZED
+USDLAFA	
+IFDSAFG
+CJOVCSG
+KIZLIXE
+EXFKXLR
+NOZZLES
